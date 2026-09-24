@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output (rebuild with `npm run build`; attach a zip to GitHub Releases instead)
+dist/
+*.zip
+*.crx
+*.pem
+
+# Windows download metadata (contains local file paths)
+*:Zone.Identifier
+*Zone.Identifier
+
+# Logs and caches
+npm-debug.log*
+*.log
+*.tsbuildinfo
+.vite/
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local settings
+.claude/settings.local.json

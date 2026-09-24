@@ -57,15 +57,6 @@ Removing the extension (`chrome://extensions` → GryphCal → Remove) deletes a
 data it has stored. Nothing is kept anywhere else, so there is nothing further
 to delete.
 
-## Limited Use
-
-GryphCal's use of information follows the
-[Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/user-data-faq),
-including the Limited Use requirements. Data is used only to provide the
-extension's single purpose (showing your CourseLink deadlines), is not
-transferred to third parties, is not used for advertising, and is not used to
-determine creditworthiness or for lending purposes. No human reads your data.
-
 ## Affiliation
 
 GryphCal is an independent student project. It is not made, endorsed or
@@ -78,4 +69,4 @@ If this policy changes, the updated version will be posted here with a new
 
 ## Contact
 
-Questions? Email damankumar2005@gmail.com.
+Questions? [Open an issue](../../issues) on this project's GitHub repository.
